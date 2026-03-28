@@ -53,8 +53,6 @@ C=a-b
 
 ```
 # OUTPUT
-```
-
-```
+<img width="989" height="466" alt="image" src="https://github.com/user-attachments/assets/cbe43357-e482-4856-9183-963d973e80f2" />
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
